@@ -1,4 +1,7 @@
 # 2021-UVA-MS-Data-Science-Hackathon
+**Executive Summary:** This repo is a fork from a student (mattlitz) who attended the January 2021 UVADS hackathon. You can find the prompt in the file hackathon-prompt.pdf. Please take a swing and compare to what you find here.
+
+
 The goal of the 2021 UVA Data Science Hackathon was to recreate the visualizations presented in the following Gapminder video about global CO2 emissions: https://youtu.be/4IkHtTgn3Nk
 
 Plot 1 presents the GDP per capita of countries plotted against their CO2 emissions over time.  The bubble size represents the total emission of CO2 from each country and the color of the bubble corresponds to each countries' region.
